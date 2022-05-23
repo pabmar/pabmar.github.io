@@ -11,3 +11,48 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.nameTitle {
+  color:white;
+  font-size: 7vw;
+  font-family: 'Grape Nuts', cursive;
+  
+}
+.subTitle {
+  color:white;
+  font-size: 4vw;
+  font-family: 'Grape Nuts', cursive;
+}
+.cardTitle{
+ 
+  background-color: #f1dfdf !important;
+  opacity: .6;
+  font-size: 3vw;
+  
+ 
+}
+
+.vertical-center {
+  display: flex;
+  align-items: center;
+}
+
+.aboutMeText{
+ 
+  font-family: 'Grape Nuts', cursive;
+  font-size: 2vh;
+}
+.aboutMeCard{
+  background-color: #f1dfdf !important;
+  opacity: .6;
+
+   
+}
+
+.rowMargin{
+ 
+}
+
+.cardMenu{
+  border-color: black;
+}

@@ -3,6 +3,7 @@ import './App.css';
 import Section from './components/sections/Sections';
 import TitleCard from './components/cards/TitleCard';
 import AboutMe from './components/cards/AboutMe';
+import AnalistaBiCard from './components/cards/AnalistaBICard';
 import bg1 from './img/bg1.jpg'
 import bg2 from './img/bg2.jpg'
 import bgBI from './img/bgBI.jpg'
@@ -45,7 +46,7 @@ function App() {
       <div id="Abi">
         <Section src={bgBI} align="center">
           <NavBarSections section="Abi"></NavBarSections>
-          <AboutMe></AboutMe>
+          <AnalistaBiCard></AnalistaBiCard>
         </Section>
       </div>
       <div id="Developer">

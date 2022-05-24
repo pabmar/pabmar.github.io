@@ -15,43 +15,42 @@ code {
 .nameTitle {
   color:white;
   font-size: 7vw;
-  font-family: 'Grape Nuts', cursive;
+  font-family: 'Fredericka the Great', cursive;
   
 }
 .subTitle {
   color:white;
   font-size: 4vw;
-  font-family: 'Grape Nuts', cursive;
+  font-family: 'Fredericka the Great', cursive;
 }
-.cardTitle{
  
-  background-color: #f1dfdf !important;
-  opacity: .6;
-  font-size: 3vw;
-  
- 
-}
 
 .vertical-center {
   display: flex;
   align-items: center;
 }
 
+.aboutMeTitle{
+ 
+  font-family: 'Inconsolata', monospace;
+  color: white;
+  font-size: 250%;
+}
 .aboutMeText{
  
-  font-family: 'Grape Nuts', cursive;
-  font-size: 2vh;
+  font-family: 'Inconsolata', monospace;
+  font-size: 120%;
+  color: white;
 }
 .aboutMeCard{
-  background-color: #f1dfdf !important;
-  opacity: .6;
+ 
+  border-radius: 25px;
+ 
 
    
 }
 
-.rowMargin{
  
-}
 
 .cardMenu{
   border-color: black;

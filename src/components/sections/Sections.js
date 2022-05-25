@@ -4,7 +4,7 @@ import { Container, Row, Col} from "react-bootstrap";
 
 const Section = (props) => {
   return (
-    <div style={{ minWidth: '80vw' ,minHeight:'100vh', backgroundImage: `url(${props.src})`,display:'flex',alignItems:`${props.align}`}}>
+    <div className="sectionDivContainer" style={{ minWidth: '80vw' ,minHeight:'100vh', backgroundImage: `url(${props.src})`,display:'flex',alignItems:`${props.align}`}}>
       <Container fluid >
         <Row className='rowMargin' fluid>
           <Col className="col-11"> {props.children[1]}</Col>

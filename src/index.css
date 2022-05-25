@@ -55,3 +55,19 @@ code {
 .cardMenu{
   border-color: black;
 }
+
+ 
+
+.maxSize{
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+.datagraphBI{
+  min-height: 40vh;
+}
+
+.AnalistaBICardContainer{
+  min-height: 100vh;
+  color:black
+}

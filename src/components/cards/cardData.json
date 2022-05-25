@@ -1,8 +1,48 @@
 {
-    "tituloAboutMe":"Un poco de mi",
-    "presentacion1": "Me presento, soy Pablo Marchant, vivo en Santiago de Chile, gamer de oficio y amante de la buena musica. tengo Experiencia en el área de Reportes y BI, en paralelo trabajando en desarrollo web en diversos lenguajes tanto front como web. Soy Profesional titulado de Analista Programador Computacional con diversos cursos para mejorar mis conocimientos."
-
- }
-
-
- 
+  "tituloAboutMe": "Un poco de mi",
+  "presentacion1": "Me presento, soy Pablo Marchant, vivo en Santiago de Chile, gamer de oficio y amante de la buena musica. tengo Experiencia en el área de Reportes y BI, en paralelo trabajando en desarrollo web en diversos lenguajes tanto front como web. Soy Profesional titulado de Analista Programador Computacional con diversos cursos para mejorar mis conocimientos.",
+  "BICV": [
+    {
+      "title": "Analista Progamador 2014",
+      "detail": "Estudios en Duoc UC, carrera tecnica, aprendizaje de modelamiento de datos, SQL y PLSQL",
+      "site": "DUOC-UC",
+      "type":"Estudios"
+    },
+    {
+      "title": "Estudios independientes 2018",
+      "detail": "Al decidir retomar la carrera realice estudios independientes donde actualice mis conocimientos tanto en BBDD relacional como NoSQL",
+      "site": "On Line",
+      "type":"Capacitación"
+    },
+    {
+      "title": "Analista de datos/Reporting 2019 - 2022",
+      "detail": "En 2019 ingreso a ComdataGroup para ejercer como analista de datos y gestor de estrategias con herramientas como Excel,SqlServer,Data Studio, Acces, VSB.net",
+      "site": "Comdata",
+       "type":"Trabajo"
+    },
+    {
+      "title": "Programador base datos 2020",
+      "detail": "Este año de manera freelance trabaje en proyecto en MySql/MariaDB en el cual me encargue de modelado de datos y querys segun requeria una APP web para una veterinaria/tienda de mascotas para control de bodega y manejo de toma de horas de pacientes ",
+      "site": "freelance",
+      "type":"Trabajo"
+    },
+    {
+      "title": "Curso SSIS Abril 2022",
+      "detail": "Curso dictado por Microsoft MVP Online con enseñanza de SSIS para generacion de ETL con la Herramientas",
+      "site": "on Line",
+      "type":"Capacitación"
+    },
+    {
+      "title": "Curo Microsoft Mayo 2022",
+      "detail": "Ruta de aprendizaje para preparacion futura para el certificado PL-300: Microsoft Power BI Data Analyst",
+      "site": "on Line",
+      "type":"Capacitación"
+    },
+    {
+      "title": "Curso GraphQl Mayo 2022",
+      "detail": "Curso para manejo de graphQl en conjunto con Apollo para montaje y consumo de base de datos no relacional",
+      "site": "on Line",
+      "type":"Capacitación"
+    }
+  ]
+}

@@ -13,6 +13,7 @@
     "react-chrono": "^1.15.3",
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
+    "recharts": "^2.1.10",
     "styled-components": "^5.3.5",
     "sweet-scroll": "^4.0.0",
     "swiper": "^8.1.6",

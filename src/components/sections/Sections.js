@@ -8,7 +8,7 @@ const Section = (props) => {
       <Container fluid >
         <Row className='rowMargin' fluid>
           <Col className="col-11"> {props.children[1]}</Col>
-          <Col  className="col-1 d-none d-md-block" >{props.children[0]}</Col>
+          <Col  className="col-1 d-none d-md-block menu" >{props.children[0]}</Col>
         </Row>
       </Container>
     </div>

@@ -44,5 +44,71 @@
       "site": "on Line",
       "type":"Capacitación"
     }
+  ],
+  "BITOOLS":[
+      {
+          "tool":"T-SQL",
+          "expertise":"Avanzado",
+          "valor":3,
+          "detail":"Manejo de consultas de complejidad avanzadas"
+
+      },
+      {
+        "tool":"PL-SQL",
+        "expertise":"Basico",
+        "valor":1,
+        "detail":"Conocimiento de sentencias basicas para consultas"
+
+    },
+    {
+        "tool":"SQL Server",
+        "expertise":"Avanzado",
+        "valor":3,
+        "detail":"Creacion de BBDD, Modelados, Consultas complejidad avanzadas,Automatizaciones mediante tarea programadas y SP"
+
+    },
+    {
+        "tool":"MySQL/MariaDB",
+        "expertise":"Intermedio",
+        "valor":2,
+        "detail":"Creacion de BBDD, Modelados, Consultas complejidad avanzadas"
+
+    },
+    {
+        "tool":"GraphQL",
+        "expertise":"Basico",
+        "valor":1,
+        "detail":"Creacion y consultas de base datos no relacionales"
+
+    },
+    {
+        "tool":"NoSQL",
+        "expertise":"Intermedio",
+        "valor":2,
+        "detail":"Creacion y consultas de base datos no relacionales"
+
+    },
+    {
+        "tool":"SSIS",
+        "expertise":"Intermedio",
+        "valor":2,
+        "detail":"Preparacion de ETL, extracción de datos de archivos planos, excel, sqlServer, FTP "
+
+    },
+    {
+        "tool":"Power BI",
+        "expertise":"Intermedio",
+        "valor":2,
+        "detail":"Creación de dashboard, preparacion de datos, medidas, uso de powerQuery"
+
+    },
+    {
+        "tool":"Data Studio",
+        "expertise":"Basico",
+        "valor":1,
+        "detail":"Creación de dashboard de data estatica"
+
+    }
+
   ]
 }
